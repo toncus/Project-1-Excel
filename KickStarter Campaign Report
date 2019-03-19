@@ -1,1 +1,84 @@
+KICKSTARTER CAMPAIGN ANALYSIS
+
+Report by Anthony Cusumano
+February 3, 2018
+
+Summary
+The purpose of this report is to answer some questions through the analysis of the crowdfunding campaign called Kickstarter.
+Crowdfunding is a way where regular people advertise their projects to a large group on a relatively low budget.
+Kickstarter has emerged as the largest platform of the crowdfunding venues. Its projects have exposure to the world stage as a whole.
+To give you some perspective of their size, at the creation of this report, and according to Kickstarter’s own website: https://www.kickstarter.com 
+Kickstarter began in 2009, and has had 14 million people pledge their projects, a total of $3.5 billion pledged, and 138,503 projects have been successfully funded.
+By going to their website, you can easily see many reasons that lead to their success. They offer support and guidance for projects initiations of all sizes. Projects picked as “Projects We Love” are featured on the Kickstarter website.
+They balance this approach by having a set of rules which give structure and integrity to the process, this in turn gives confidence to those pledging those projects.
+However, even after all mentioned above, the 138,503 projects successfully funded represent only one third of the projects originally attempted.
+This report will set out to determine answers to the following 3 questions by organizing and analyzing the results of over 4000 projects:
+1.	What are three conclusions we can make about Kickstarter campaigns given the provided data?
+2.	What are some of the limitations of this dataset?
+3.	What are some other possible tables/graphs that we could create?
+Introduction
+Over the last 20 years “crowdfunding” has gained in notoriety. Many, while unaware how it all works, understand that it is a way of getting people to fund some project you initiate. All crowdfunding platforms have some set of rules. Some require a minimum of support shown for the project being initiated.  This is referred to this as a “tipping” point, where you as the campaign initiator go on to successfully fund your project or in some cases, have to give pledged money back.
+Some years back, my daughter was working for a local “juice bar” in New Brunswick, New Jersey.  They specialized in the juicing of fruits and vegetables and made some really healthy and tasty juices. As they were starting out, they needed to purchase a $3,000 commercial juicing machine.  They chose “crowdfunding” to raise the needed cash.  
+As I recall, they had 2 months to get initial pledges to meet a minimum amount to continue or get cancelled, the “tipping point”.  I was one of their early pledges at $100. 
+If you asked me at the time what my motivation was, I would have cited all the benefits of healthy living and juicing in particular. Was I a health enthusiast per se, not really? Was I wealthy with disposable income? Hardly. Truth be told, my daughter was into it and that was good enough for me, because it made me feel good to be part of the energy at the time.
+Since 2009, Kickstarter has become the largest of the “crowdfunding” platforms in which to fund a project. It has been very successful. As of February, of 2018, according to the Kickstarter website, they have had 14 million people pledge their projects for a total of $3.5 billion dollars, successfully funding 138,503 projects. 
+These projects are in various categories spanning the list of film & video, food, games, journalism, music, photography, publishing, technology and theater.
+While seemingly successful, some 300,000 projects were attempted resulting in roughly only a third of them seeing a positive outcome. Why so low one may wonder?
+This report will go on to organize and analyze some 4000 projects to discover what trends and insights we can learn to answer some questions which will shed light on the crowdfunding campaign known as Kickstarter.
+The aim here is to learn what is working and hopefully emulate it. As always, “The devil is in the details.”  By analyzing the data of those details, we can determine that something that worked, will always work, or maybe only worked at that time. Sometimes the trend shows something else will work or may work in the future.  We shall see.
+Analysis
+
+To answer our questions, we proceeded to organize and analyze our data from a number of different perspectives. 
+The first perspective is a top-level view of the number of projects in each category to see how many of those were successful, failed, cancelled or still live.  
+In Table 1 / Chart 1 on the next page, we see that theatre was the lead category outnumbering the number of attempts by the second largest, music, and third largest, technology, categories combined. 
+Although theatre was not the highest successful percentage, theatre in number of “successful” projects outnumbered the number of attempts made in any other category. 
+ 
+See Table 1 and Chart 1 of images Folder
+
+In Table 2 / Chart 2, of the images folder, we drill down to the subcategories that make up these top-level categories to find the real drivers.
+It is here we learn the details we were talking about before. Why is theatre the most attempted?
+We find, by a whopping 25.9% of the total 4114 projects coming in at 1066, plays, are the overall leader and they dominate the theatre category. 
+Within the plays sub-category nearly two thirds of the projects are successful with 694 successful, 353 failed and 19 still live at the time. Another interesting fact is no projects were cancelled in this sub-category.
+Investigating this level of data with a keener eye leads to other interesting points. That is, the “niche” projects of interest out there as well.  By looking deeper, we find “those pockets” of those whose projects were in documentaries, electronic music, hardware, nonfiction, rock, shorts, table top games, and television were 100% successful in their endeavors once they launched their projects. 
+We also see a flip side that shows a whole number of “niche” projects that either failed or were cancelled and were 100% unsuccessful. 
+These include animation, art books, audio, children’s books, drama, faith, fiction, food trucks, gadgets, jazz, mobile games, nature, places, restaurants, translations, video games, web and world music.
+ 
+See Table 2 and Chart 2 of images Folder
+
+Backing back out to our top-level view, as we go on in our analysis, with the insight we gained by our drill down, we seek to analyze the data from a time perspective. With the months of the year displayed we find that the most projects were attempted at the end of spring and beginning of summer, in May, June and July with May and June showing better results for being successful.  
+
+See Table 3 and Chart 3 of images Folder
+
+In our last perspective, Table 4 / Chart 4 on the folder, our data seems to support a more intuitive reasoning behind “crowdfunding” and Kickstarter platforms.
+We consider the number and percentage of successful, failed, and cancelled projects as a function of their goals funding amounts.  
+Keeping in mind that crowdfunding and Kickstarter gave the regular person with minimum budget a shot at advertising their dreams to the world, we find that the lower goals range of projects from less than $1000 and the $1000 to $4999 ranges are more successful both in numbers and percentages attempted, and successful numbers and percentages.
+
+ 
+See Table 4 and Chart 4 of images Folder
+
+In conclusion, we consider our original questions we set out to answer.
+1.	What are three conclusions we can make about Kickstarter campaigns given the provided data?
+2.	What are some of the limitations of this dataset?
+3.	What are some other possible tables/graphs that we could create?
+What are three conclusions we can make about Kickstarter campaigns given the provided data?
+
+1.	Certainly, one obvious conclusion stands out. Projects linked to plays are pursued more often and more successful in number. 
+2.	The end of Spring and beginning of Summer is a more ideal time to launch a campaign.
+3.	Some “niche” projects pursued less often are also very successful. Given that many “niche” projects are very unsuccessful as well, the conclusion here is that these may appeal to certain niches of the population and may be more dependent on time and place and changing desires.
+What are some of the limitations of this dataset?
+Some of the limitations of this data set are that it doesn’t say much about those making the pledges. We don’t really know who they are, how wealthy they are, what age groups they may be in, and just what it is about the projects they backed was appealing to them or if such things are still appealing to them?
+Another limitation is about our data set of 4,114 projects. 
+Is it large enough to be meaningful about 300,000 projects? 
+Did we somehow only get the play skewed data part of the whole?
+What are some other possible tables/graphs that we could create?
+Some tables, graphs, pie charts and surveys to show demographics with respect to ages and incomes of the pledgers by region and the kinds of projects that appeal to them. 
+More samples should be done in the future to pinpoint true trends suggested in a dataset and to chart changes in items appealing to the masses over time to see how desires may be changing.
+
+Some final thoughts….
+We, as consumers, have all been on the receiving end of endless advertisements and solicitations coming at us from many different venues. 
+Venues like “crowdfunding” and Kickstarter have given many the ability to pursue projects they would not have been able to afford previously.
+While this no doubt has increased the solicitations and advertisements the rest of us receive, it has also exposed us to possibilities and wonders we would have not known about.
+Those that pursue crowdfunding projects are looking to connect with those that have the time and resources to make their dreams and projects a reality. 
+They seem to “sift through us all” like panhandlers looking for gold nuggets to “follow the yellow brick road” to success. 
+To them, having the data in hand to know who, when, where, why and how to make the connections to bring their projects to fruition, will save time and money and may just push their crowdfunding and Kickstarter projects over the “tipping point”.
 
